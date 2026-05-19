@@ -26,6 +26,10 @@ Frontend — Next.js 14, TypeScript, Tailwind CSS, Zustand
 AI — OpenAI API, LangChain, pgvector
 Infra — Docker, Kubernetes, GitHub Actions
 
+### Agile & QA Workflow
+This project was managed using an Agile/Scrum methodology via **Jira Cloud**. 
+- Formulated custom workflows tracking defects through the entire Bug Life Cycle (*Ready for QA ➔ Retesting ➔ Closed*).
+- Enforced strict traceability by linking Git branches and commit messages to active Jira Issue Keys (e.g., `AIC-XX`).
 # Running it locally
 
 You need Node 20+, Docker, and an OpenAI API key.
